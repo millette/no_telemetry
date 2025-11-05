@@ -12,6 +12,8 @@ For information on the NO_TELEMETRY standard, see <https://no-telemetry.org/>.
 export ASTRO_TELEMETRY_DISABLED=1
 export DO_NOT_TRACK=1
 export QW_DISABLE_TELEMETRY=1
+export LIGHTPANDA_DISABLE_TELEMETRY=true
+export MEILI_NO_ANALYTICS=true
 ```
 
 ----
