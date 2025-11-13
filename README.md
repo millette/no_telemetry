@@ -14,9 +14,9 @@ export DO_NOT_TRACK=1
 export QW_DISABLE_TELEMETRY=1
 export LIGHTPANDA_DISABLE_TELEMETRY=true
 export MEILI_NO_ANALYTICS=true
+export SCARF_ANALYTICS=false
 ```
 
 ----
 
 *Inspired by <https://no-color.org/>.*
-
