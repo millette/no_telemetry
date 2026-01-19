@@ -15,6 +15,7 @@ export QW_DISABLE_TELEMETRY=1
 export LIGHTPANDA_DISABLE_TELEMETRY=true
 export MEILI_NO_ANALYTICS=true
 export SCARF_ANALYTICS=false
+export TS_NO_LOGS_NO_SUPPORT=true
 ```
 
 ----
