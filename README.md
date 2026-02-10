@@ -18,6 +18,7 @@ export SCARF_ANALYTICS=false
 export TS_NO_LOGS_NO_SUPPORT=true
 export SENTRY_DSN=""
 export NEXT_TELEMETRY_DISABLED=1
+export CLAUDE_CODE_ENABLE_TELEMETRY=0
 ```
 
 ----
