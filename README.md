@@ -37,3 +37,16 @@ netlify --telemetry-disable
 *Inspired by <https://no-color.org/>.*
 
 See <https://donottrack.sh/>, a standard for respecting user privacy in software.
+
+## Alternatives
+
+- <https://github.com/heliomass/ConsoleDoNotTrack>
+- <https://github.com/beatcracker/toptout>
+- <https://toptout.me/>
+- <https://gist.github.com/pascalduez/6698397>
+- <>
+- <>
+- <>
+- <>
+- <>
+- <>
