@@ -26,3 +26,5 @@ export GH_TELEMETRY=false
 ----
 
 *Inspired by <https://no-color.org/>.*
+
+See <https://donottrack.sh/>, a standard for respecting user privacy in software.
