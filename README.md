@@ -44,9 +44,4 @@ See <https://donottrack.sh/>, a standard for respecting user privacy in software
 - <https://github.com/beatcracker/toptout>
 - <https://toptout.me/>
 - <https://gist.github.com/pascalduez/6698397>
-- <>
-- <>
-- <>
-- <>
-- <>
-- <>
+
