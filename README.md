@@ -27,6 +27,7 @@ export AZURE_CORE_COLLECT_TELEMETRY=0
 export GATSBY_TELEMETRY_DISABLED=1
 export HOMEBREW_NO_ANALYTICS=1
 export STNOUPGRADE=1
+export DISABLE_TELEMETRY=1
 
 go telemetry off
 gcloud config set disable_usage_reporting true
